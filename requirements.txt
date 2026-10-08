@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+librosa
+soundfile
+torch
+torchaudio
+transformers
+accelerate
+sentencepiece
+faster-whisper
+language-tool-python
+lightgbm
